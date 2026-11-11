@@ -1,0 +1,2 @@
+# sql-playground
+Daily practice
